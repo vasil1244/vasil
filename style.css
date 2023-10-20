@@ -1,0 +1,17 @@
+*{
+	box-sizing:border-box;
+}
+.heading{
+	font-size:38px;
+	color:coral;
+	}
+.box{
+	width:800px;
+	background-color:skyblue;
+	padding:25px 50px 65px 28px;
+	margin:auto;
+	border:20px solid green;
+	}
+p{
+	font-size:28px;
+}
